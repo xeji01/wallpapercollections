@@ -10,27 +10,28 @@
 <table>
 <tr>
   <td>
-    <img alt="ayanami-rei" src="../ayanami-rei.png" width="260"/>
+    <img alt="ayanami-rei" src="01/ayanami-rei.png" width="260"/>
   </td>
   <td>
-    <img alt="blade-runner-ryan-gosling" src="../01/blade-runner-ryan-gosling.png" width="260"/>
+    <img alt="blade-runner-ryan-gosling" src="01/blade-runner-ryan-gosling.png" width="260"/>
   </td>
   <td>
-    <img alt="blue-room" src="../01/blue-room.png" width="260"/>
+    <img alt="blue-room" src="01/blue-room.png" width="260"/>
   </td>
 </tr>
 
 <tr>
   <td>
-    <img alt="ayanami-rei" src="../01/ayanami-rei.png" width="260"/>
+    <img alt="ayanami-rei" src="01/ayanami-rei.png" width="260"/>
   </td>
   <td>
-    <img alt="blade-runner-ryan-gosling" src="../01/blade-runner-ryan-gosling.png" width="260"/>
+    <img alt="blade-runner-ryan-gosling" src="01/blade-runner-ryan-gosling.png" width="260"/>
   </td>
   <td>
-    <img alt="blue-room" src="../01/blue-room.png" width="260"/>
+    <img alt="blue-room" src="01/blue-room.png" width="260"/>
   </td>
 </tr>
+
 
 
 
