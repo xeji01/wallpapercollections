@@ -1,8 +1,9 @@
-## Gallery 01
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/xeji01/wallpapercollections)
 
-> All the images have been compressed for faster page loading. But don't worry, they still have the exact same quality as before. 
+> [!Note]\
+> All the images have been compressed for the sake of faster page loading. I also tried to make them have the exact same quality as they were before.  
+
+## Gallery 01
 
 <table>
 <tr>
@@ -17,6 +18,7 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
     <img src="01/bocchi-the-blade-runner.png" width="260"/>
@@ -28,6 +30,7 @@
     <img src="01/dystopian.png" width="260"/>
   </td>
 </tr>
+
 
 <tr>
   <td>
@@ -41,6 +44,7 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
     <img src="01/gas-station.png" width="260"/>
@@ -52,6 +56,7 @@
     <img src="01/green-alley.png" width="260"/>
   </td>
 </tr>
+
 
 <tr>
   <td>
@@ -65,6 +70,7 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
     <img src="01/hayakawa-family.png" width="260"/>
@@ -77,9 +83,10 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
-    <img src="01/japan-rain-street-house.png" width="260"/>
+    <img src="01/beach.png" width="260"/>
   </td>
   <td>
     <img src="01/lavender-skull.png" width="260"/>
@@ -89,17 +96,19 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
     <img src="01/makima-neon.png" width="260"/>
   </td>
   <td>
-    <img src="01/mono-beach.png" width="260"/>
+    <img src="01/cass-orange.png" width="260"/>
   </td>
   <td>
     <img src="01/monstera.png" width="260"/>
   </td>
 </tr>
+
 
 <tr>
   <td>
@@ -113,6 +122,7 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
     <img src="01/pink-street.png" width="260"/>
@@ -125,9 +135,10 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
-    <img src="01/purple-city.png" width="260"/>
+    <img src="01/green-andro.png" width="260"/>
   </td>
   <td>
     <img src="01/purple-planet.png" width="260"/>
@@ -137,9 +148,10 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
-    <img src="01/purple-sky.png" width="260"/>
+    <img src="01/hyprland-girl.png" width="260"/>
   </td>
   <td>
     <img src="01/quanxi-smoking.png" width="260"/>
@@ -148,6 +160,7 @@
     <img src="01/riven-nayutasleep.png" width="260"/>
   </td>
 </tr>
+
 
 <tr>
   <td>
@@ -161,6 +174,7 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
     <img src="01/street.png" width="260"/>
@@ -173,6 +187,7 @@
   </td>
 </tr>
 
+
 <tr>
   <td>
     <img src="01/tennis.png" width="260"/>
@@ -181,15 +196,58 @@
     <img src="01/trueno-ae86.png" width="260"/>
   </td>
   <td>
-    <img src="01/trunk.png" width="260"/>
+    <img src="01/locker.png" width="260"/>
   </td>
 </tr>
 
+
 <tr>
+  <td>
+    <img src="01/masked-girl.png" width="260"/>
+  </td>
+  <td>
+    <img src="01/neon-girl.png" width="260"/>
+  </td>
+  <td>
+    <img src="01/painting.png" width="260"/>
+  </td>
+</tr>
+
+
+<tr>
+  <td>
+    <img src="01/pool.png" width="260"/>
+  </td>
+  <td>
+    <img src="01/red-mask.png" width="260"/>
+  </td>
+  <td>
+    <img src="01/reze-classroom.png" width="260"/>
+  </td>
+</tr>
+
+
+<tr>
+  <td>
+    <img src="01/silent.png" width="260"/>
+  </td>
+  <td>
+    <img src="01/swordwoman-666kart.png" width="260"/>
+  </td>
   <td>
     <img src="01/vapor-floor.png" width="260"/>
   </td>
 </tr>
+
+
+<tr>
+  <td>
+    <img src="01/vostok.png" width="260"/>
+  </td>
+</tr>
+
+
+
 
 
 
@@ -197,3 +255,75 @@
 </table>
 
 </div>
+
+
+
+## Gallery 02
+Ana aka (@pitayaq)
+
+<table>
+<tr>
+  <td>
+    <img src="02/landscape/ana-back.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-blue-left.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-chloma.png" width="260"/>
+  </td>
+</tr>
+
+
+<tr>
+  <td>
+    <img src="02/landscape/ana-chloma-white.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-close.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-crossroad.png" width="260"/>
+  </td>
+</tr>
+
+
+<tr>
+  <td>
+    <img src="02/landscape/ana-gray-bot.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-gray.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-hoodie.png" width="260"/>
+  </td>
+</tr>
+
+
+<tr>
+  <td>
+    <img src="02/landscape/ana-lab.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-railway.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-right.png" width="260"/>
+  </td>
+</tr>
+
+
+<tr>
+  <td>
+    <img src="02/landscape/ana-orange.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-shore.png" width="260"/>
+  </td>
+  <td>
+    <img src="02/landscape/ana-sony.png" width="260"/>
+  </td>
+</tr>
+
+
